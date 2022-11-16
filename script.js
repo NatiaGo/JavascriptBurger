@@ -33,7 +33,7 @@ formWraper.addEventListener('submit', function( event){
 }) 
 addButton.addEventListener('click', function(){
 let inputValue = input.value ;
-if (inputValue == ' '){
+if (inputValue =' '){
     return
 }
 
